@@ -3,6 +3,7 @@
 	"description": "a project for the future",
 	"keywords": [ "freecodecamp", "masterpiece", "comprehensible"],
 	"license": "BSD",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
