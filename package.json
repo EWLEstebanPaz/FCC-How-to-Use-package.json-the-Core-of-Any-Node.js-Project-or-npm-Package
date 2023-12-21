@@ -1,6 +1,7 @@
 {
 	"author":"Esteban Paz",
 	"description": "a project for the future",
+	"keywords": [ "freecodecamp", "masterpiece", "comprehensible"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
